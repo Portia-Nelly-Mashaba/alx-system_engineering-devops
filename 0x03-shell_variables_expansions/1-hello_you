@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello $USER | tr 'A-Z' 'a-z'
+echo "hello $USER"
